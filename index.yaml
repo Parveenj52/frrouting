@@ -9,5 +9,6 @@ entries:
     name: frrouting
     urls:
     - frrouting-0.1.0.tgz
+      fr-network-0.1.0.tgz
     version: 0.1.0
 generated: "2025-05-23T16:56:03.311774505+01:00"

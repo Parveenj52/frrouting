@@ -50,4 +50,24 @@ entries:
     urls:
     - fr-network-dc-min-0.1.0.tgz
     version: 0.1.0
+  fr-network-bt-max:
+  - apiVersion: v2
+    appVersion: "7.5"
+    created: "2025-05-23T16:56:03.313041057+01:00"
+    description: A Helm chart for FRRouting
+    digest: 610e4195ae3481d965b4d4d22572f39ea3039d11be1ac1e2f6d049fd79555ec9
+    name: fr-network-bt-max
+    urls:
+    - fr-network-bt-max-0.1.0.tgz
+    version: 0.1.0
+  fr-network-bt-min:
+  - apiVersion: v2
+    appVersion: "7.5"
+    created: "2025-05-23T16:56:03.313041057+01:00"
+    description: A Helm chart for FRRouting
+    digest: 610e4195ae3481d965b4d4d22572f39ea3039d11be1ac1e2f6d049fd79555ec9
+    name: fr-network-bt-min
+    urls:
+    - fr-network-bt-min-0.1.0.tgz
+    version: 0.1.0
 generated: "2025-05-23T16:56:03.311774505+01:00"

@@ -78,6 +78,6 @@ entries:
     digest: 610e4195ae3481d965b4d4d22572f39ea3039d11be1ac1e2f6d049fd79555ec9
     name: fr-network-bt-min-param
     urls:
-    - fr-network-bt-min_param-0.1.0.tgz
+    - fr-network-bt-min-param-0.1.0.tgz
     version: 0.1.0
 generated: "2025-05-23T16:56:03.311774505+01:00"

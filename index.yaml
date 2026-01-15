@@ -80,7 +80,7 @@ entries:
     urls:
     - fr-network-bt-min-param-0.1.0.tgz
     version: 0.1.0
-  E-Line_P2P_Ethernet:
+  e-line-p2p-ethernet:
   - apiVersion: v2
     appVersion: "7.5"
     created: "2025-05-23T16:56:03.313041057+01:00"
